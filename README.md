@@ -4,7 +4,7 @@ This repository contains a machine learning model for predicting real estate pro
 
 ## Repository Structure
 
-- `notebook.ipynb`: Jupyter notebook containing the project code, including data preprocessing, model development, evaluation, and analysis.
+- `Real_Estate_Valuation_Model.ipynb`: Jupyter notebook containing the project code, including data preprocessing, model development, evaluation, and analysis.
 - `app.py`: Python file for deploying the model as a web application.
 - `tests.py`: Python file for testing the deployed application.
 - `UCI_Real_Estate_Valuation.xlsx`: Directory containing the dataset used for training and testing the model.
@@ -13,7 +13,7 @@ This repository contains a machine learning model for predicting real estate pro
 
 ## Usage
 
-1. Open the `notebook.ipynb` file to explore the project code, including data preprocessing, model development, and evaluation.
+1. Open the `Real_Estate_Valuation_Model.ipynb` file to explore the project code, including data preprocessing, model development, and evaluation.
 2. Run `app.py` to deploy the model as a web application.
 3. Access the deployed application through the provided URL to make predictions on real estate property prices.
 4. Use `tests.py` to run tests on the deployed application and ensure its functionality.

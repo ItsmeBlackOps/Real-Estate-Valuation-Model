@@ -8,6 +8,7 @@ This repository contains a machine learning model for predicting real estate pro
 - `app.py`: Python file for deploying the model as a web application.
 - `tests.py`: Python file for testing the deployed application.
 - `UCI_Real_Estate_Valuation.xlsx`: Directory containing the dataset used for training and testing the model.
+- `Documentation_of_Real_Estate_Valuation_Model.pdf`: Documentation containing details of the project.
 - `README.md`: This file, providing an overview of the project and instructions for usage.
 
 ## Usage
